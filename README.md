@@ -20,7 +20,6 @@ Hey! I'm Shoaib, a Full Stack Engineer based in Islamabad, Pakistan with 2+ year
 
 I work directly with clients, understand their requirements, and turn them into working products. I'm comfortable picking up old legacy codebases, debugging tricky performance issues, or building something fresh from scratch. I use **Claude Code** and **Cursor** daily to stay productive and ship faster.
 
-- 🔭 Currently working at **Codeaza Technologies** as a Full Stack Engineer
 - 🎓 CS grad from **FAST NUCES Islamabad**
 - 💬 Ask me about **React, Next.js, Node.js, real time systems, or AI integrations**
 - 📫 Reach me at **sali18089@gmail.com**
