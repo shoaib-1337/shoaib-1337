@@ -20,6 +20,7 @@ Hey! I'm Shoaib, a Full Stack Engineer based in Islamabad, Pakistan with 2+ year
 
 I work directly with clients, understand their requirements, and turn them into working products. I'm comfortable picking up old legacy codebases, debugging tricky performance issues, or building something fresh from scratch. I use **Claude Code** and **Cursor** daily to stay productive and ship faster.
 
+- 🔭 Currently working at **Codeaza Technologies** as a Full Stack Engineer
 - 🎓 CS grad from **FAST NUCES Islamabad**
 - 💬 Ask me about **React, Next.js, Node.js, real time systems, or AI integrations**
 - 📫 Reach me at **sali18089@gmail.com**
@@ -34,7 +35,7 @@ I work directly with clients, understand their requirements, and turn them into 
 |-----------|-----------|
 | Dashboard load time improvement | **90% faster** (10-15s → 3-4s) |
 | Transaction records served | **900K+** |
-| Business reviews aggregated | **8M+** |
+| Business reviews aggregated | **80M+** |
 | SKU catalog managed | **4,000+** |
 | Businesses on reviews platform | **40+** |
 | Client facing products delivered | **6+** |
@@ -97,26 +98,15 @@ I work directly with clients, understand their requirements, and turn them into 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shoaib-1337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib-1337&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaib-1337&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" width="100%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib-1337&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shoaib-1337&theme=tokyonight&no-frame=true&row=1&column=6)
+![Profile Views](https://komarev.com/ghpvc/?username=shoaib-1337&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
