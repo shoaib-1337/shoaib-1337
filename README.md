@@ -98,18 +98,6 @@ I work directly with clients, understand their requirements, and turn them into 
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaib-1337&theme=tokyo-night&hide_border=true&area=true&area_color=58A6FF" width="100%" />
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=shoaib-1337&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
 ---
 
 ## 📫 Let's Connect
