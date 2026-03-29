@@ -1,10 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Shoaib Ali
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Shoaib%20Ali&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=18&descColor=aaaaaa" width="100%"/>
 
-### 💻 Full Stack Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;React+%26+Next.js+Developer+%F0%9F%8C%90;Real+time+systems+%26+dashboards+%F0%9F%93%8A;AI+tools+power+user+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+web+platforms;Real-time+systems+developer;Data-heavy+dashboards+expert&center=true&size=20&color=58A6FF)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibali1337/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shoaib-1337)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sali18089@gmail.com)
 
 </div>
 
@@ -12,30 +16,53 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Engineer with experience in JavaScript ecosystems, backend optimization, cloud-native development, and performance tuning. I work on legacy systems, modernize architectures, and deliver business-critical features across FinTech, Retail, and Data Analytics domains.
+Hey! I'm Shoaib, a Full Stack Engineer based in Islamabad, Pakistan with 2+ years of experience building and shipping real world web applications. I have a CS degree from FAST NUCES and I've worked across retail, fintech, hospitality, and AI domains.
+
+I work directly with clients, understand their requirements, and turn them into working products. I'm comfortable picking up old legacy codebases, debugging tricky performance issues, or building something fresh from scratch. I use **Claude Code** and **Cursor** daily to stay productive and ship faster.
+
+- 🎓 CS grad from **FAST NUCES Islamabad**
+- 💬 Ask me about **React, Next.js, Node.js, real time systems, or AI integrations**
+- 📫 Reach me at **sali18089@gmail.com**
+
+---
+
+## 🏆 Key Achievements
+
+<div align="center">
+
+| 🚀 Metric | 📊 Impact |
+|-----------|-----------|
+| Dashboard load time improvement | **90% faster** (10-15s → 3-4s) |
+| Transaction records served | **900K+** |
+| Business reviews aggregated | **8M+** |
+| SKU catalog managed | **4,000+** |
+| Businesses on reviews platform | **40+** |
+| Client facing products delivered | **6+** |
+| Brands and locations on analytics platform | **6+ brands, 50+ locations** |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases & ORMs
+### 🗣️ Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🗄️ Databases & ORMs
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -43,32 +70,67 @@ I'm a Full Stack Engineer with experience in JavaScript ecosystems, backend opti
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-### DevOps & Tools
+### 🔧 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Others
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+### 🤖 AI & Others
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
 ---
 
-## 💼 What I Can Do
+## 🔨 What I Can Build
 
-- Build scalable web applications and real-time systems
-- Optimize database queries and improve system performance
-- Develop data-heavy dashboards and analytics platforms
-- Work with legacy systems and modernize architectures
-- Implement real-time features using WebSockets
-- Integrate AI/LLM capabilities into applications
-- Design and develop full-stack solutions from scratch
+- ⚡ High performance dashboards and analytics platforms with large datasets
+- 🔄 Real time systems using WebSockets for live chat, tracking, and notifications
+- 🤖 AI powered features and integrations using Claude, ChatGPT, and LLM APIs
+- 🏗️ Full stack applications from scratch or on top of existing legacy codebases
+- 🔐 Role based access control systems and secure admin panels
+- 📱 Responsive, mobile first interfaces with clean and reusable components
+- 🔗 Third party API integrations (Shopify, Bland.ai, and more)
+- 📊 Data visualizations, geospatial maps, and trend analysis tools
 
 ---
 
-## 📫 Contact
+## 📈 GitHub Stats
 
-- 📧 **Email:** sali18089@gmail.com
-- 💼 **LinkedIn:** [shoaibali1337](https://www.linkedin.com/in/shoaibali1337/)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=shoaib-1337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib-1337&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib-1337&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=shoaib-1337&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+If you want to talk dev, collaborate on something, or just connect, feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibali1337/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sali18089@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
