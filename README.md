@@ -35,7 +35,7 @@ I work directly with clients, understand their requirements, and turn them into 
 |-----------|-----------|
 | Dashboard load time improvement | **90% faster** (10-15s → 3-4s) |
 | Transaction records served | **900K+** |
-| Business reviews aggregated | **80M+** |
+| Business reviews aggregated | **8M+** |
 | SKU catalog managed | **4,000+** |
 | Businesses on reviews platform | **40+** |
 | Client facing products delivered | **6+** |
