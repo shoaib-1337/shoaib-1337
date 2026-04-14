@@ -24,26 +24,6 @@ I work directly with clients, understand their requirements, and turn them into 
 - 💬 Ask me about **React, Next.js, Node.js, real time systems, or AI integrations**
 - 📫 Reach me at **sali18089@gmail.com**
 
----
-
-## 🏆 Key Achievements
-
-<div align="center">
-
-| 🚀 Metric | 📊 Impact |
-|-----------|-----------|
-| Dashboard load time improvement | **90% faster** (10-15s → 3-4s) |
-| Transaction records served | **900K+** |
-| Business reviews aggregated | **8M+** |
-| SKU catalog managed | **4,000+** |
-| Businesses on reviews platform | **40+** |
-| Client facing products delivered | **6+** |
-| Brands and locations on analytics platform | **6+ brands, 50+ locations** |
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
